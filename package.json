@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "cym <2280349364@qq.com>",
+  "license": "MIT"
 }
